@@ -1,0 +1,29 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    position: relative;
+}
+
+#square
+{
+    
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: absolute;
+    top: 50px;
+}
+
+h2
+{
+    font-size: 1.2em;
+    text-align: center;
+}
+
+
+
+
